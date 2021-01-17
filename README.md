@@ -12,7 +12,6 @@ Then, navigate to [your etsy store account payments page](https://www.etsy.com/y
 
 It only takes the transactions currently seen on the page, which is at most 30 records. You may need to navigate to each page on a month to capture all transactions for a given month.
 
-
 ## Development
 
 Clone this repo, `npm i` to install packages, and `npm run build` to rebuild the typescript into a new `scrape.js`. Most of the logic can be found in `functions.ts` but, at time of writing, this is a small scripting project with few dependancies.
